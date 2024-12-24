@@ -1,0 +1,6 @@
+.pio
+.vscode
+*.db
+/build/
+/venv/
+/env/
